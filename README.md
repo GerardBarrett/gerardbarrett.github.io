@@ -1,2 +1,2 @@
-# gerardbarrett.githubpages.io
+# gerardbarrett.github.io
 Website
