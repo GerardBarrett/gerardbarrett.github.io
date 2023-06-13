@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://barrettsec.co.uk</id>
+    <title>BarrettSec</title>
+    <updated>2022-06-20T18:49:03Z</updated>
+    <generator>BarrettSec</generator>
+    <author>
+        <name>BarrettSec</name>
+    </author>
+    <link rel="alternate" href="https://barrettsec.co.uk"/>
+    <link rel="self" href="https://barrettsec.co.uk/blog/f"/>
+    <subtitle>BarrettSec</subtitle>
+    <entry>
+        <title type="html"><![CDATA[First Blog]]></title>
+        <id>first-blog</id>
+        <link href="https://barrettsec.co.uk/blog/f/first-blog">
+        </link>
+        <updated>2022-06-20T18:49:03Z</updated>
+        <content type="html"><![CDATA[<p>It's been a year since I first had the notion to create a website/blog and I frankly chickened out. </p>]]></content>
+    </entry>
+</feed>
